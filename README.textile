@@ -1,0 +1,7 @@
+h1. MspSineOfTheLines
+
+Run in "Processing":http://processing.org (2.0b7). Needs the "Minim":http://code.compartmental.net/tools/minim/ library (2.1.0 BETA).
+
+Just playing..
+
+Clone the repo and open up MspSineOfTheLines.pde in Processing.
